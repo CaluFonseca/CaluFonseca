@@ -2,9 +2,9 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/rikkarth/rikkarth/blob/500c2876810290fbf370fd80245927a51c43364f/waving.gif">, I'm Cláudio Fonseca | @CaluFonseca</h1>
 <br>
 
-- 👀 I’m interested in Full-Stack development!
-- 🌱 I’m currently learning Java and more!
-- 💞️ I’m looking to collaborate in projects.
+ 👀 I’m interested in Full-Stack development!
+ 🌱 I’m currently learning Java and more!
+ 💞️ I’m looking to collaborate in projects.
 
 ## 🌐 Socials:
 
