@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ebbd9b&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Cláudio+Fonseca;+Welcome+to+My+Profile!;A+new+revolution+in+my+professional+carrer!;Always+hugry+to+learn+more+and+more!)](https://git.io/typing-svg)
-
 # 💻 Some Tools and technologies
 
 <br><br>
